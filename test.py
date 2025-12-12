@@ -1,4 +1,7 @@
 import sys
+
+from palindrome import check_palindrome
+
 if __name__ == "__main__":
 
     if len(sys.argv) != 2:
