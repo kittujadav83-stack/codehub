@@ -11,4 +11,4 @@ if __name__ == "__main__":
         sys.exit(0)
 
     word = sys.argv[1]
-    check_palindrome(word)
+    xcheck_palindrome(word)
